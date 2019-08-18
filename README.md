@@ -31,15 +31,15 @@ You will also need to install “APT 0.7 Strict” and “Core Utilities” from
 
 SSH in to your device with the username root and the password alpine. We’re going to change this now, for security, and then we’ll give the user mobile a password so we can log in without being root.
 
-iphone:~ root# passwd
-Changing password for root.
-New password: [type a password here]
-Retype new password: [repeat it here]
-iphone:~ root# passwd mobile
-Changing password for mobile.
-New password: [type a different or same password here]
-Retype new password: [again...]
-iphone:~ root# 
+#iphone:~ root# passwd
+#Changing password for root.
+#New password: [type a password here]
+#Retype new password: [repeat it here]
+    #iphone:~ root# passwd mobile
+    #Changing password for mobile.
+    #New password: [type a different or same password here]
+    #Retype new password: [again...]
+    #iphone:~ root# 
 
 Getting an Editor
 
